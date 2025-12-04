@@ -37,7 +37,6 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.database.R
 import com.example.database.room.Siswa
 import com.example.database.view.route.DestinasiDetailSiswa
-import com.example.database.viewmodel.Detailsiswa
 import com.example.database.viewmodel.DetailViewModel
 import com.example.database.viewmodel.provider.PenyediaViewModel
 import com.example.database.viewmodel.toSiswa
